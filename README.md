@@ -31,11 +31,8 @@
 ### Rules / Avoid chaos
 
 * Before add a new language
-    * Check if language is not already done/ currently handled
-    * Open an issue saying "I take this language"
-    * Assign Yourself
-    * Do it -> see below how to do it
-    * Close issue
+    * Check if language is not already done
+    * Do it 
 
 * Before any improvement 
  	* Open an issue
